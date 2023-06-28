@@ -30,11 +30,7 @@ namespace CodeSnippet.Models.Exercise
                 Student result = new Student("", "");
 
                 studentDictionary.TryGetValue(1, out result);
-                public ExampleDictionary ()
-                {
-                    // created by code snippets
-                    // this is for test
-                }
+                // master branch
             }
 
         }
