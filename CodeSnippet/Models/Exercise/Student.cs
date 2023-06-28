@@ -33,6 +33,7 @@ namespace CodeSnippet.Models.Exercise
                 public ExampleDictionary ()
                 {
                     // created by code snippets
+                    // this is for test
                 }
             }
 
