@@ -1,0 +1,1 @@
+only branch2 have this file
