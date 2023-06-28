@@ -30,7 +30,7 @@ namespace CodeSnippet.Models.Exercise
                 Student result = new Student("", "");
 
                 studentDictionary.TryGetValue(1, out result);
-                // master branch
+                //  branch1
             }
 
         }
